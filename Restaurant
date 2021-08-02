@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">	
+<html lang= "en">
+<html>
+<title>Restraunt Menu</title>	
+<body>
+<header>
+<link rel= "stylesheet" href= "CSSSTYLES.css">	
+<link rel="stylesheet" media="screen and (max-width: 991px)" href="Tablet.css">
+<h1>Restraunt Menu</h1>
+</header>
+<p id="Sapatu">This is a very tasty curry that you should try. Very Very tasty. Full of rich spices and flavour. It was voted the best curry in the Warld by Currypanel.com. Very very good; very very very very good.very very very very good.very very very very good.very very very very good.very very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good.very very very good. </p>
+
+<p id="Sapatu"> This is sambar. Very tasy and spicy. TOO FULL of spice and spicy flavour. Garam garam sambar is ready for you to enjoy. Just dip spoon into it and you will burn mouth so please take care. It is served very very hot; so that brings out spicy flavour. Flavour is very tasty. Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty.Flavour is very tasty. </p>
+
+<p id= "Rasagulla"> This is rasmalai. Ras malai  (Bengali: রসমালাই) or Rasamalei (Odia: ରସମଲେଇ) is a dessert originating from the eastern regions of the Indian subcontinent. The dessert is called rossomalai in Bengali language, ras malai in Hindi language and Ras Malai in Odia language. Though ras malai is made in different places.</p>
+
+
+
+
+
+
+</body>
+</html>
